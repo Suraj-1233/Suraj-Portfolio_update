@@ -30,7 +30,7 @@ const Social = () => {
         <div className="socialcard">
           <img src={Insta} alt="" />
           <a
-            href="https://www.instagram.com/suraj.6599/"
+            href="https://www.instagram.com/tarjan_1/"
             target={"_blank"}
             rel="noreferrer"
           >
