@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.maindiv {
+  width: 100vw;
+  /* background-color: black; */
+  background: linear-gradient(90deg, black, rgb(30, 30, 58));
+}
+
+.border {
+  background-color: yellow;
+  height: 10px;
+}
