@@ -20,7 +20,7 @@ const Social = () => {
         <div className="socialcard">
           <img src={Linkedin} alt="" />
           <a
-            href="https://www.linkedin.com/in/surajkannujiya/"
+            href="https://www.linkedin.com/in/suraj-kannujiya-b7920327a/"
             target={"_blank"}
             rel="noreferrer"
           >
